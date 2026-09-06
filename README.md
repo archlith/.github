@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arclith-logo.png" alt="ARCLITH Game Studio" width="560">
+  <img src="../71fa9388-986c-4fae-8730-1a9613aabdf2.png" alt="ARCLITH Game Studio" width="560">
 </p>
 
 <p align="center">
